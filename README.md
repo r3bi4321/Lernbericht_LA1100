@@ -8,13 +8,12 @@ Ich habe im Lernatelier den Auftrag bekommen einen Number guesser zu erstellen.
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt was eine Do-while Schleife macht.
+Ich habe gelernt was eine do-while Schleife macht.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Eine do-while Schleife wiederholt einen Vorgang solange die Ausgabe am Ende der Schleife auf die Angabe in der Oberen Klammer zutrifft.Das heisst, wenn man als Beispiel eingibt Ausgabe < als 5 wird dieser Vorgang solange wiederholt bis die Ausgabe nicht mehr kleiner als 5 it.Beim Number guessers habe ich die do-while Schleife gebraucht, damit man weiterhin eine Zahl eingeben kann, wenn man die gesuchte Zahl noch nicht gefunden hat.Wenn die Schleife beendet ist und man die gesuchte Zahl noch nicht gefunden hat,beginnt die Schleife immer wieder von vorne.
+Eine do-while Schleife wiederholt einen Vorgang solange die Ausgabe am Ende der Schleife auf die Angabe in der Oberen Klammer zutrifft. Das heisst, wenn man als Beispiel eingibt Ausgabe < als 5 wird dieser Vorgang solange wiederholt bis die Ausgabe nicht mehr kleiner als 5 ist. Beim Number guessers habe ich die do-while Schleife gebraucht, damit man weiterhin eine Zahl eingeben kann, wenn man die gesuchte Zahl noch nicht gefunden hat.Wenn die Schleife beendet ist und man die gesuchte Zahl noch nicht gefunden hat, beginnt die Schleife immer wieder von vorne.
 
 ```c#
 do
@@ -70,18 +69,18 @@ do
 
 ## Verifikation
 
-Programmcode:Zeigt die do-while schleife, wie ich sie programmiert habe.
+Programmcode: Zeigt die do-while schleife, wie ich sie programmiert habe.
 
-Text :Erklärt die do-while Schleife.
+Text: Erklärt die do-while Schleife.
 
-Foto : Zeigt die Wiederholung der do-while Schleife während das Programm läuft.
+Foto: Zeigt die Wiederholung der do-while Schleife während das Programm läuft.
 
 # Reflektion zum Arbeitsprozess
 
 Was lief gut: 
-Für mich persönlich lief das Planen mit der Projektdokumentation gut,da ich für mich so Anhaltspunkte hatte für das spätere programmieren, wodurch ich die Zeit efizienter nutzen konnte.
+Für mich persönlich lief das Planen mit der Projektdokumentation gut, da ich für mich so Anhaltspunkte hatte für das spätere programmieren, wodurch ich die Zeit effizienter nutzen konnte.
 
 Was weniger gut lief: 
-Am Anfang hatte ich beim Programmieren probleme da ich gewisse Begriffe verwechselt habe.Zudem wollte ich zu viel im Programm einfügen und hatte am Schluss keine Zeit mehr.So musste ich einige Sachen weglassen welche noch gut gewesen wären.
+Am Anfang hatte ich beim Programmieren Probleme da ich gewisse Begriffe verwechselt habe. Zudem wollte ich zu viel im Programm einfügen und hatte am Schluss keine Zeit mehr. So musste ich einige Sachen weglassen welche noch gut gewesen wären.
 
-**VBV**:Ich sollte für das nächste mal überlegen,was ich wirklich im Programm brauche und welche Sachen ich auch weglassen kann und dann die wichtigen zu erst programmieren.
+**VBV**:Ich sollte für das nächste mal überlegen, was ich wirklich im Programm brauche und welche Sachen ich auch weglassen kann und dann die wichtigen zuerst programmieren.
